@@ -37,26 +37,35 @@ ${renderLicenseBadge(data.license)}
 
 # ${data.title}
 
+
 ## Descripton
 ${data.description}
+
 
 ## Installation
 ${data.installation}
 
+
 ## Usage
 ${data.usage}
+
 
 ## Contributing
 ${data.contribution}
 
+
 ## Tests
 ${data.tests}
+
 
 ## License
 ${data.license}
 
+
 ## Questions
 Github: ${data.githubUsername} -> https://github.com/${data.githubUsername}
+
+Email: ${data.email}
 `;
 }
 
