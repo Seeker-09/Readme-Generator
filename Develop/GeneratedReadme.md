@@ -1,11 +1,11 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# a
+# j
 
 
 ## Descripton
-a
+j
 
 
 ## Table of Contents
@@ -18,26 +18,28 @@ a
 
 
 ## Installation
-a
+j
 
 
 ## Usage
-a
+j
 
 
 ## Contributing
-a
+j
 
 
 ## Tests
-a
+j
 
 
 ## License
 Apache 2.0
 
+https://www.apache.org/licenses/LICENSE-2.0
+
 
 ## Questions
-Github: a -> https://github.com/a
+Github: j -> https://github.com/j
 
-Email: a
+Email: j

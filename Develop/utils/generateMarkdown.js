@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+//Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   switch(license) {
@@ -24,7 +24,27 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  switch(license) {
+    case "Apache 2.0":
+      return "https://www.apache.org/licenses/LICENSE-2.0";
+      
+    case "Boost Software License 1.0":
+      return "https://www.boost.org/users/license.html";
+
+    case "Eclipse Public License 1.0":
+      return "https://www.eclipse.org/legal/epl-v10.html";
+
+    case "IBM Public License Version 1.0":
+      return "https://opensource.org/licenses/IPL-1.0";
+
+    case "ISC License":
+      return "https://opensource.org/licenses/ISC";
+
+    default:
+      return "";
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -69,6 +89,8 @@ ${data.tests}
 
 ## License
 ${data.license}
+
+${renderLicenseLink(data.license)}
 
 
 ## Questions
