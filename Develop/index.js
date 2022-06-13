@@ -38,6 +38,18 @@ const promptUser = () => {
             type: "input",
             name: "tests",
             message: "Enter test instructions."
+        },
+        {
+            type: "list",
+            name: "license",
+            message: "Choose a license for your project: ",
+            choices: [
+                "Apache 2.0",
+                "Boost Software License 1.0",
+                "Eclipse Public License 1.0",
+                "IBM Public License Version 1.0",
+                "ISC License"
+            ]
         }
     ])
 }
