@@ -42,6 +42,15 @@ ${renderLicenseBadge(data.license)}
 ${data.description}
 
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
+
+
 ## Installation
 ${data.installation}
 
