@@ -50,6 +50,11 @@ const promptUser = () => {
                 "IBM Public License Version 1.0",
                 "ISC License"
             ]
+        },
+        {
+            type: "input",
+            name: "githubUsername",
+            message: "Enter your github username: "
         }
     ])
 }

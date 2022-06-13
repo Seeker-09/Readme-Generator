@@ -54,6 +54,9 @@ ${data.tests}
 
 ## License
 ${data.license}
+
+## Questions
+Github: ${data.githubUsername} -> https://github.com/${data.githubUsername}
 `;
 }
 
