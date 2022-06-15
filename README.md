@@ -1,3 +1,6 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+a Node.js project that uses a CLI (Inquirer) to take user input and generate a professional README file.
+
+[Video link](https://drive.google.com/file/d/1i3CgjTCZEf0gMZqpSY5KiLEFtTa5CeVq/view)

@@ -1,11 +1,11 @@
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
-# j
+# New Project
 
 
 ## Descripton
-j
+It is a new project
 
 
 ## Table of Contents
@@ -18,28 +18,28 @@ j
 
 
 ## Installation
-j
+do the thing
 
 
 ## Usage
-j
+don't use it wrong
 
 
 ## Contributing
-j
+whoever wants to
 
 
 ## Tests
-j
+test a lot
 
 
 ## License
-Apache 2.0
+Eclipse Public License 1.0
 
-https://www.apache.org/licenses/LICENSE-2.0
+https://www.eclipse.org/legal/epl-v10.html
 
 
 ## Questions
-Github: j -> https://github.com/j
+Github: Seeker-09 -> https://github.com/Seeker-09
 
-Email: j
+Email: creek.mundt2@gmail.com
